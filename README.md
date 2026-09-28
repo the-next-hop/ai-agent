@@ -2,7 +2,7 @@
 
 A minimal AI agent, built from scratch in Python, that answers questions about your network by running show commands on real devices. The language model runs locally through Ollama, and Netmiko handles the SSH side. No frameworks, no cloud APIs, and nothing leaves your network.
 
-This repository accompanies the article on [The Next Hop](https://the-next-hop.co.uk): **[Local AI Meets Netmiko: Build Your Own Network Agent](LINK-TO-ARTICLE)**.
+This repository accompanies the article on [The Next Hop](https://the-next-hop.co.uk): **[Local AI Meets Netmiko: Build Your Own Network Agent](https://the-next-hop.co.uk/local-ai-meets-netmiko-build-your-own-network-agent/)**.
 
 ## Example
 
